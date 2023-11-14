@@ -7,3 +7,5 @@ accountEmail="changed@"
 accountPassword="changed1231"
 accountCity="changedcity" 
 console.table([accountId,accountEmail,accountPassword,accountCity])
+const num = 10000000
+console.log(num.toLocaleString('en-IN'));
